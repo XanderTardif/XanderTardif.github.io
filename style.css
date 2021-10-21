@@ -1,0 +1,27 @@
+hr {
+background-color: grey;
+width: 100%;
+height:3px; }
+ol {
+color: black}
+h1 {
+color: black
+}
+#background1 {
+  background-color: white;
+}
+.blackcolor {
+  color: black
+}
+.fontstyle {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.personal {
+  border: 5px outset black;
+  background-color: white;
+
+}
+.professional {
+  border: 5px outset white;
+  background-color: lightgrey;
+}
